@@ -1,6 +1,6 @@
 [submodule "TwinCATexample"]
 	path = TwinCATexample
-	url = https://torstenbogershausen@bitbucket.org/europeanspallationsource/tc_ads_example.git
+	url = /afs/slac.stanford.edu/g/cd/swe/git/repos/package/epics/modules/tc_ads_example.git
 [submodule "BeckhoffADS"]
 	path = BeckhoffADS
-	url = https://github.com/EuropeanSpallationSource/ADS
+	url = /afs/slac.stanford.edu/g/cd/swe/git/repos/package/epics/modules/ADS.git
